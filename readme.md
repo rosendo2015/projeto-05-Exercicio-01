@@ -1,10 +1,10 @@
-# Desafio do nível 04 - nível 04 - Exercicio 01 - Java Script
+# Desafio do nível 04 - Exercicio 01 - Java Script
 
 ![preview](github/preview.jpg)
 
 > Trilha Explorer 
 
-> Projeto feito para cumprir desafio do nível 04 - <b>Exercicio 02 - Java Script</b> construído no curso Explorer da Rocketseat :rocket:. 
+> Projeto feito para cumprir desafio do nível 04 - <b>Exercicio 01 - Java Script</b> construído no curso Explorer da Rocketseat :rocket:. 
 
 ## :hammer_and_wrench: Tecnologias
 
